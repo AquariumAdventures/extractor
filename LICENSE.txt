@@ -1,0 +1,21 @@
+Extractor - Freeware License
+
+Copyright © 2025 Graeme Kerr
+
+This software, "Extractor", is provided free of charge for personal or internal business use.
+
+You may:
+- Use the application for personal or commercial purposes.
+- Share the unmodified installer with others.
+
+You may not:
+- Modify, decompile, reverse-engineer, or redistribute altered versions of the software.
+- Use any portion of the codebase, images, or branding in other software or services without explicit permission.
+
+This software is provided "as is" without warranty of any kind. Use at your own risk. The author accepts no responsibility for data loss, damages, or errors resulting from the use of this software.
+
+For support or inquiries, contact: graeme@aquariumadventures.co.uk
+
+## 💡 Support the Developer
+This tool is provided free of charge. If you find it useful, please consider subscribing to my [YouTube Channel - Aquarium Adventures](https://www.youtube.com/@AquariumAdventures) ❤️
+
